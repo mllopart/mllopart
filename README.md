@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋 
 
 <!--
 **mllopart/mllopart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm Marc! I'm a software engineer who is passionate with Startups and new technologies. I currently work @[Keeeb](https://www.keeeb.com) as a Director of Engineering
+
+Find me around the web:
+- https://www.linkedin.com/in/mllopart/
+- https://twitter.com/mllopartriera
