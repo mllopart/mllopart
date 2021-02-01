@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Marc! I'm a software engineer who is passionate with Startups and new technologies. I currently work @[Keeeb](https://www.keeeb.com) as a Director of Engineering
+Hi, I'm Marc! <strong>Result-oriented and performance driven senior engineer and experienced director / project manager</strong> with over fifteen years of experience in development, analysis, and project leadership. Education enthusiast who constantly strives to learn new technologies, improve skills, and adapt to the rapidly evolving technology industry. Enthusiastic developer who stays current with industry trends. Good risk decision taking person, who quickly assess the problem, find multiple solutions, and apply the best one. Also, you can find me trail running, enjoying the nature, or reading a good mystery novel. Lately I started to learn about game development with Unreal Engine.
+
+<i>Note to recruiters:</i> I will not take a coding test. Why? Because I do not need to prove to you that I can code. If you want to know whether or not I can code, ask the people who his knowledge management has been improved by Keeeb, or the people I helped with anti-Fraud and AML implementations I did for Santander Bank. That's my work.
 
 Find me around the web:
 - https://www.linkedin.com/in/mllopart/
