@@ -14,9 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Marc! <strong>Result-oriented and performance driven senior engineer and experienced director / project manager</strong> with over fifteen years of experience in development, analysis, and project leadership. Education enthusiast who constantly strives to learn new technologies, improve skills, and adapt to the rapidly evolving technology industry. Enthusiastic developer who stays current with industry trends. Good risk decision taking person, who quickly assess the problem, find multiple solutions, and apply the best one. Also, you can find me trail running, enjoying the nature, or reading a good mystery novel. Lately I started to learn about game development with Unreal Engine.
+Hi, I'm Marc! <strong>Dynamic Senior Engineer and forward-thinking CTO with a demonstrated history of leading innovation in technology and project execution.</strong> 
 
-<i>Note to recruiters:</i> I will not take a coding test. Why? Because I do not need to prove to you that I can code. If you want to know whether or not I can code, ask the people who his knowledge management has been improved by Keeeb, or the people I helped with anti-Fraud and AML implementations I did for Santander Bank. That's my work.
+My expertise lies in steering teams towards exceptional performance and pioneering development in artificial intelligence and search engine technologies. As a committed lifelong learner, I have a deep passion for embracing cutting-edge technologies, continuously enhancing my professional skill set, and adapting rapidly to the evolving tech landscape. Known for staying ahead of industry trends, I excel in making pivotal decisions under pressure, diagnosing challenges swiftly, and deploying the most efficient solutions. 
+
+Beyond the professional realm, I am an enthusiastic trail runner, a lover of the great outdoors, and a connoisseur of mystery literature. I am currently exploring the fascinating world of game development, leveraging the capabilities of Unreal Engine to create immersive experiences.
+
+- 🔭 Developing an AI Chatbot.
+- 🌱 Expanding my knowledge in Large Language Models (LLMs).
+- 🤔 Seeking partnerships with tech-forward companies.
+- 📫 Contact me: marc@luodaint.com
+- 😄 Pronouns: He/Him
 
 Find me around the web:
 - https://mllopart.github.io/
